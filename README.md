@@ -1,4 +1,4 @@
-![logo](https://github.com/D-nduati/D-nduati/blob/main/Gitbanner.jpg)
+![logo](https://github.com/D-nduati/D-nduati/blob/main/Gitbanner.jpg width= 400 height = 100 )
 <h1 align="center">Hi 👋, I'm David Nduati</h1>
 <h3 align="center">🚀 Full-Stack Developer | Specialized in Scalable Web & Software Solutions | Certified Innovator</h3>
 
