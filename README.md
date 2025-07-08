@@ -3,7 +3,6 @@
 
 - 💬 Ask me about **react,reduxtoolkit,mssql,restapis**
 
-- 📫 How to reach me **mwakidavis89@gmail.com**
 
 - ⚡ Fun fact **The first website ever created is still online! It's a basic info page about the World Wide Web, created by Tim Berners-Lee in 1991.**
 
